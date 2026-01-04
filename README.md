@@ -1,4 +1,4 @@
-# Mantis IAP Day 2 Workshop: Mantis GitHub Vertical
+# Mantis IAP Day 2 Workshop: Mantis x GitHub
 
 This repository contains scripts and material used for the Day 2 Workshop for the Mantis IAP at MIT:
 * A Python (Jupyter) notebook that can be used to get GitHub issues via Google Colab (Cloud) or Jupyter Notebook, generating a CSV to upload to Mantis.
