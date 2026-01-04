@@ -4,6 +4,8 @@ This repository contains scripts and material used for the Day 2 Workshop for th
 * A Python (Jupyter) notebook that can be used to get GitHub issues via Google Colab (Cloud) or Jupyter Notebook, generating a CSV to upload to Mantis.
 * A sample CSV of data that can be made with the Jupyter notebook, using Issues data from Microsoft's VSCode repository.
 
+You will end up making a space like this to use during the workshop (this one uses the sample CSV data): https://mantis.csail.mit.edu/space/b9c9b7b6-f89b-4e88-b7c6-7553066b6139/
+
 ## Instructions
 1) Download the .ipynb file from this repository and upload it to **Google Colab (RECOMMENDED)**: https://colab.research.google.com/, or clone this repository to run the Python Notebook locally.
 2) Follow all instructions in the Jupyter Notebook to generate a CSV of GitHub issues and download it to your computer (if using Colab)
